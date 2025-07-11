@@ -1,6 +1,6 @@
 # Data Analyst Job Market Dashboard (Excel)
 
-This is my first time using Excel, and this dashboard is also my very first Excel project. I created it to apply the skills I’ve just learned and to explore how Excel can be used to analyze real-world data.
+This is my first time using Excel, and this dashboard is also my very first Excel project. I created it to apply the skills I’ve just learned.
 
 # Project Purpose
 This project was created as a way for me to apply and reinforce what I’ve recently learned in Excel. It focuses on building a functional and insightful dashboard using only core Excel features.
