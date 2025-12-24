@@ -1,11 +1,4 @@
-# Data Analyst Job Market Dashboard (Excel)
-This is just me trying out what I just learned about Excel
-
-In this project, I focused on using only basic Excel features:
-- Charts – for visualizing salary distribution
-- Formulas and Functions – to calculate things like median salary and job counts,...
-- Data Validation – to build interactive filters
-No pivot table, macro or advanced tools were used
+Trying out excel for first time
 
 # Dataset
 
@@ -14,7 +7,7 @@ lukebarousse.com
 
 # Known Issue: Chart Lag with Filter Changes
 
-In this project, I've encountered many problems but this is the most troublesome one
+There's many problems but this is the most troublesome one
 
 Issue: While the spilled array formulas update correctly in the cells, the charts sometimes fail to reflect the latest filtered data unless the same filter is reselected again.
 
